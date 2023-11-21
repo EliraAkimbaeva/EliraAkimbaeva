@@ -45,9 +45,7 @@
 
 <h3 align="left">Social networks:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marta-castrillo-delgado" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="marta-castrillo-delgado" /></a>
-<a href="https://kaggle.com/marta99" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="marta99" /></a>
-<a href="https://medium.com/@martacasdelg" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@martacasdelg" /></a>
+<a href="https://www.linkedin.com/in/elirakim/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="marta-castrillo-delgado" /></a>
 </p>
 
 &nbsp;
