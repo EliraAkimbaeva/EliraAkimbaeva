@@ -1,5 +1,5 @@
 
-#Hey, I am Elira
+# Hi, I am Elira
 ## About me 
 
 
