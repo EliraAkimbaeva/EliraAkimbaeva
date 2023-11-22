@@ -1,6 +1,5 @@
 
 # Hi, I am Elira
-## About me 
 
 
 <h3 align="left">About me:</h3>
