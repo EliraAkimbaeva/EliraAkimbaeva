@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://github.com/MartaCasdelg/MartaCasdelg/blob/main/Banner2.gif" width="500"/>
-</div>
 
 # Hey, I am Elira
 ## About me 
